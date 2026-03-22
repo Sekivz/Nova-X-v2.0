@@ -8,15 +8,14 @@
  ██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║    ██╔╝ ██╗ 
  ╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝    ╚═╝  ╚═╝
 ```
-⬇️ Descargar](https://github.com/Sekivz/NovaX/releases
 
 ### 🎮 El optimizador más completo para Roblox
 
-[![Version](https://img.shields.io/badge/VERSION-2.0-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sekivz/NovaX/releases)
-[![Windows](https://img.shields.io/badge/WINDOWS-10%2F11-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sekivz/NovaX/releases)
+[![Version](https://img.shields.io/badge/VERSION-2.0-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sekivz/Nova-X-v2.0/releases)
+[![Windows](https://img.shields.io/badge/WINDOWS-10%2F11-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sekivz/Nova-X-v2.0/releases)
 [![License](https://img.shields.io/badge/LICENSE-GPL--v3-00ff66?style=for-the-badge&logoColor=white)](LICENSE)
 [![Discord](https://img.shields.io/badge/DISCORD-UNIRSE-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uekqPSmAq5)
-[![Downloads](https://img.shields.io/github/downloads/Sekivz/NovaX/total?style=for-the-badge&color=ff0000&label=DESCARGAS)](https://github.com/Sekivz/NovaX/releases)
+[![Downloads](https://img.shields.io/github/downloads/Sekivz/NovaX/total?style=for-the-badge&color=ff0000&label=DESCARGAS)](https://github.com/Sekivz/Nova-X-v2.0/releases)
 
 <br>
 
@@ -24,7 +23,9 @@
 
 <br>
 
-### [⬇️ &nbsp; DESCARGAR NOVA X v2.0 &nbsp; ⬇️](https://github.com/Sekivz/NovaX/releases/latest)
+### [⬇️ &nbsp; DESCARGAR NOVA X v2.0 &nbsp; ⬇️](https://github.com/Sekivz/Nova-X-v2.0/releases/download/v2.0/NovaX_Setup_v2.exe)
+
+> 🆓 **Gratis · Sin pagos · Sin suscripciones · Sin reembolsos**
 
 <br>
 
@@ -166,7 +167,7 @@
 ## 🚀 Instalación
 
 ```
-1. Descarga NovaX_Setup_v2.exe desde Releases
+1. Descarga NovaX_Setup_v2.exe desde el link de arriba
 2. Ejecuta el instalador y sigue los pasos
 3. Abre Nova X
 4. Presiona APLICAR
@@ -236,9 +237,9 @@ Sí. Nova X tiene optimizaciones específicas para laptops que reducen el calor 
 
 </div>
 
-- 🐛 **Reportar un bug** → [GitHub Issues](https://github.com/Sekivz/NovaX/issues/new?labels=bug)
-- 💡 **Solicitar una función** → [Feature Request](https://github.com/Sekivz/NovaX/issues/new?labels=enhancement)
-- 📥 **Última versión** → [Releases](https://github.com/Sekivz/NovaX/releases)
+- 🐛 **Reportar un bug** → [GitHub Issues](https://github.com/Sekivz/Nova-X-v2.0/issues/new?labels=bug)
+- 💡 **Solicitar una función** → [Feature Request](https://github.com/Sekivz/Nova-X-v2.0/issues/new?labels=enhancement)
+- 📥 **Última versión** → [Releases](https://github.com/Sekivz/Nova-X-v2.0/releases)
 
 ---
 
@@ -274,7 +275,7 @@ Ver licencia completa en [LICENSE](LICENSE)
 
 **Hecho con ❤️ por [Sekivz](https://github.com/Sekivz)**
 
-[⬇️ Descargar](https://github.com/Sekivz/NovaX/releases) &nbsp;·&nbsp; [💬 Discord](https://discord.gg/uekqPSmAq5) &nbsp;·&nbsp; [🐛 Reportar bug](https://github.com/Sekivz/NovaX/issues)
+[⬇️ Descargar](https://github.com/Sekivz/Nova-X-v2.0/releases) &nbsp;·&nbsp; [💬 Discord](https://discord.gg/uekqPSmAq5) &nbsp;·&nbsp; [🐛 Reportar bug](https://github.com/Sekivz/Nova-X-v2.0/issues)
 
 ⭐ **Si Nova X te ayudó, deja una estrella en el repositorio** ⭐
 
