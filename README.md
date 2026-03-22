@@ -15,7 +15,7 @@
 [![Windows](https://img.shields.io/badge/WINDOWS-10%2F11-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sekivz/Nova-X-v2.0/releases)
 [![License](https://img.shields.io/badge/LICENSE-GPL--v3-00ff66?style=for-the-badge&logoColor=white)](LICENSE)
 [![Discord](https://img.shields.io/badge/DISCORD-UNIRSE-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uekqPSmAq5)
-[![Downloads](https://img.shields.io/github/downloads/Sekivz/NovaX/total?style=for-the-badge&color=ff0000&label=DESCARGAS)](https://github.com/Sekivz/Nova-X-v2.0/releases)
+[![Downloads](https://img.shields.io/github/downloads/Sekivz/Nova-X-v2.0/total?style=for-the-badge&color=ff0000&label=DESCARGAS)](https://github.com/Sekivz/Nova-X-v2.0/releases)
 
 <br>
 
