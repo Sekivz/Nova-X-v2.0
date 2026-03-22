@@ -25,7 +25,7 @@
 
 ### [⬇️ &nbsp; DESCARGAR NOVA X v2.0 &nbsp; ⬇️](https://github.com/Sekivz/Nova-X-v2.0/releases/download/v2.0/NovaX_Setup_v2.exe)
 
-> 🆓 **Gratis · Sin pagos · Sin suscripciones · Sin reembolsos**
+
 
 <br>
 
